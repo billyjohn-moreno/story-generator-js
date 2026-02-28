@@ -4,11 +4,11 @@ Interactive story generator built with vanilla JavaScript. Users can select diff
 
 ## Preview
 
-![Screenshot 1](Screenshot-1.png)
+![Screenshot 1](./assets/screenshots/Screenshot-1.png)
 
-![Screenshot 2](Screenshot-2.png)
+![Screenshot 2](./assets/screenshots/Screenshot-2.png)
 
-![Screenshot 3](Screenshot-3.png)
+![Screenshot 3](./assets/screenshots/Screenshot-3.png)
 
 ## Features
 
